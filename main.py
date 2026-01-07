@@ -1,4 +1,4 @@
-#codigos padrao para automaçao web selenium--------------------------------
+
 import time # para definir quanto tempo a pagina continuara aberta
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
