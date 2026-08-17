@@ -1,10 +1,8 @@
-## Automação com Python e Selenium:
-Este repositório faz parte do meu processo de aprendizado em automação de tarefas na web utilizando Python e Selenium.
+## Automação com Selenium:
 
-Objetivo:
-Entender como o Selenium interage com navegadores.
-Aprender a configurar o ChromeDriver de forma automática.
-Praticar a abertura de páginas e controle do navegador com Python.
+A ideia foi começar a entender como funciona a automação de um navegador usando código, desde abrir uma página até controlar algumas ações dentro dela.
+
+Aprendi a entender como o Selenium interage com navegadores, 'configurar o ChromeDriver de forma automática e praticar a abertura de páginas e controle do navegador com Python.
 
 Tecnologias utilizadas:
 Python.
